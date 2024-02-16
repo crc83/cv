@@ -171,7 +171,6 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 6 |
 | Tools/ Technologies: | Grails/MySQL |
 
-
 | Project name: | Web service that provides read only data |
 |----|----|
 | Project Description: | Web service that provide information to different clients under heavy load. |
@@ -182,13 +181,13 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 1 |
 | Tools/ Technologies: | Gradle/Groovy/Docker/Jenkins |
 
-| Project name: | POC Migration to GCP Spanner
+| Project name: | POC Migration to GCP Spanner |
 |---|----|
 |Project Description: |Migrate existing REST based services from DB2 to GCP Spanner. Performance metrics gathering and queries performance tuning.|
 | Customer: | US Customer |
 | Involvement Duration: | January 2019-May 2019 |
 | Project Role: | Developer |
-| Responsibilities: | Regular development. Discovering bottlenecks and adjusting queries
+| Responsibilities: | Regular development. Discovering bottlenecks and adjusting queries |
 | Project Team Size: | 3 |
 | Tools/ Technologies: | Spring boot, Google Libraries for Spanner, Jetbrains IDEA, GCP Console |
 
