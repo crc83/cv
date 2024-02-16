@@ -1,6 +1,6 @@
 # Serhii Belei
 
-Software Architect (10-August-2023)
+Software Architect (16-February-2024)
 
 ![photo](photo.png)
 
