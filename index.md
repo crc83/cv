@@ -297,7 +297,7 @@ Blog :  <http://crc83.blogspot.com/>
 |----|----|----|
 | Java Standard Edition 6 Programmer Certified Professional | 2012 |  ![Java 6 cert](java6cert.png) |
 | Google Cloud Certified Professional Cloud Architect <https://bit.ly/32eHIiV>  | 2019 | ![CGP cert](gcp_cert.png) |
-| SEI Software architect professional | 2022 | ![SEI cert](Seal_Signature_Block_SEI_SAP.PNG) |
+| SEI Software architect professional | 2022 | ![SEI cert](sei.png) |
 
 ## Education
 
