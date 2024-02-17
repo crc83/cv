@@ -131,7 +131,7 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 5-6 |
 | Tools/ Technologies: | Java/JSP/Spring/Go |
 
-## Helthcare information system
+### Helthcare information system
 
 | Project Description: | Project aim is to automate work of hospitals, clinics etc. It has modular monolithic structure with Java/Spring backend and Angular frontend. My team responsibility was to implement interaction with patient and doctor cards and also interaction with government services via HL7 data standards (FHIR JSON data models) |
 | Customer: | EU customer |
@@ -273,6 +273,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Tools/Technologies: | Delphi 7-2010, MS SQL Server 2005 Express edition, ADO, COM |
 | Additional information: | Many different tasks were solved by me, such as: interaction with cash registers; interaction with scales; flexible distribution of access rules between different users; operation logging. I have an experience of supporting this application for four years |
 
+## Programming languages
+
 | Programming languages: | Level |
 |----|----|
 | Java | good |
@@ -296,9 +298,9 @@ Blog :  <http://crc83.blogspot.com/>
 
 | Name | Year |  |
 |----|----|----|
-| Java Standard Edition 6 Programmer Certified Professional | 2012 |  ![Java 6 cert](java6cert.png)  {width=200} |
-| Google Cloud Certified Professional Cloud Architect <https://bit.ly/32eHIiV>  | 2019 | ![CGP cert](gcp_cert.png) {width=200} |
-| SEI Software architect professional | 2022 | ![SEI cert](sei.png) {width=200} |
+| Java Standard Edition 6 Programmer Certified Professional | 2012 |  ![logo](java6cert.png)  |
+| Google Cloud Certified Professional Cloud Architect <https://bit.ly/32eHIiV>  | 2019 | ![logo](gcp_cert.png) |
+| SEI Software architect professional | 2022 | ![logo](sei.png) |
 
 ## Education
 

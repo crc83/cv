@@ -69,6 +69,14 @@ p {
 	width: 60%;
 }
 
+table {
+	position: relative;
+	left: 25%;
+	margin-bottom: 0.2em;
+	margin-right: 0;
+	width: 60%;
+}
+
 code {
 	font: normal normal;
 	font-size: 90%;
@@ -190,5 +198,6 @@ strong {
 	visibility: hidden;
 }
 
-
-
+img[alt=logo] { 
+	height: 150px; 
+}
