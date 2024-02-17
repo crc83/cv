@@ -49,6 +49,8 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 ### Methodologies
 
 - Agile, SCRUM, XP
+- Views and beoynd (SEI)
+- Architecture traydoff analysis
 - Pair Programming
 - Test Driven, Feature Driven, Behavior Driven Development
 - Waterfall
@@ -73,7 +75,7 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 - Eclipse/Intellij Idea/VSCode
 - Git/SVN
 - Github actions/Jenkins/Teamcity/Travic-CI
-- Docker/Kubernetes
+- Docker/Kubernetes/Newrelic/Grafana
 
 ### Operating Systems
 
