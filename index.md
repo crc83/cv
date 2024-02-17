@@ -111,8 +111,8 @@ Blog :  <http://crc83.blogspot.com/>
 
 ## Experience
 
-| Project name: | Helthcare support marketplace |
-|----|----|
+### Supply chain for retail
+
 | Project Description: | Supply chain project for retail as a part of big enterprise SOA with domain driven design and multiple integrations with other services through REST and message bus |
 | Customer: | EU customer |
 | Involvement Duration: | September 2023 - Now |
@@ -121,8 +121,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 20+ |
 | Tools/ Technologies: | Java/AVRO/Openapi |
 
-| Project name: | Helthcare support marketplace |
-|----|----|
+### Helthcare support marketplace
+
 | Project Description: | Project aimed to support customers with hiring nurse or nanny to support them in daily life. Project itself contains of legacy monoliths and go microservices on backend and micro frontend app combined with JSP's on frontend |
 | Customer: | US customer |
 | Involvement Duration: | May 2023 - September 2023 |
@@ -131,8 +131,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 5-6 |
 | Tools/ Technologies: | Java/JSP/Spring/Go |
 
-| Project name: | Helthcare information system |
-|----|----|
+## Helthcare information system
+
 | Project Description: | Project aim is to automate work of hospitals, clinics etc. It has modular monolithic structure with Java/Spring backend and Angular frontend. My team responsibility was to implement interaction with patient and doctor cards and also interaction with government services via HL7 data standards (FHIR JSON data models) |
 | Customer: | EU customer |
 | Involvement Duration: | August 2021 - April 2023 |
@@ -141,8 +141,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 3 - 10 |
 | Tools/ Technologies: | Java/Spring & Angular |
 
-| Project name: | Healthcare social network |
-|----|----|
+### Healthcare social network
+
 | Project Description: | Project aimed to help senior people communicate with each other. It has microservice architecture with different data analytics and data aggregation services |
 | Customer: | US customer |
 | Involvement Duration: | November 2020 - July 2021 |
@@ -151,8 +151,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 3 - 10 |
 | Tools/ Technologies: | React/NodeJS/NestJS/AWS |
 
-| Project name: | Healthcare ETL system |
-|----|----|
+### Healthcare ETL system
+
 | Project Description: | This platform provides services to multicultural populations including those that speak English, Spanish, Arabic, Farsi, Mandarin, Cantonese,Armenian, Tagalog, and others. |
 | Customer: | US customer |
 | Involvement Duration: | September 2020 - November 2020 |
@@ -161,8 +161,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 3-6 |
 | Tools/ Technologies: | Java/Spring Batch/Angular |
 
-| Project name: | Tennis booking system |
-|----|----|
+### Tennis booking system
+
 | Project Description: | Project aimed to help venues in their daily activity. Also this solution helps players to book a match and find partner for it. |
 | Customer: | Swedish customer |
 | Involvement Duration: | November 2019 - September 2020 |
@@ -171,8 +171,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 6 |
 | Tools/ Technologies: | Grails/MySQL |
 
-| Project name: | Web service that provides read only data |
-|----|----|
+### Web service that provides read only data
+
 | Project Description: | Web service that provide information to different clients under heavy load. |
 | Customer: | US Customer |
 | Involvement Duration: | June 2019 - September 2019 |
@@ -181,8 +181,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 1 |
 | Tools/ Technologies: | Gradle/Groovy/Docker/Jenkins |
 
-| Project name: | POC Migration to GCP Spanner |
-|---|----|
+### POC Migration to GCP Spanner
+
 |Project Description: |Migrate existing REST based services from DB2 to GCP Spanner. Performance metrics gathering and queries performance tuning.|
 | Customer: | US Customer |
 | Involvement Duration: | January 2019-May 2019 |
@@ -191,8 +191,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 3 |
 | Tools/ Technologies: | Spring boot, Google Libraries for Spanner, Jetbrains IDEA, GCP Console |
 
-| Project name: | Application Release automation and test automation support |
-|---|----|
+### Application Release automation and test automation support
+
 | Project Description: | Migration of build process from Ant to Gradle. Automation of release process. Writing UI automation tests using groovy & selenium2. Moving common build tasks from gradle script into plugins using groovy. Automation of Jenkins job configuration from gradle build (Maintenance of opensource gradle Jenkins plugin, written on groovy) |
 | Customer: | European customer |
 | Involvement Duration: | October 2017-October 2018 |
@@ -202,8 +202,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Tools/ Technologies: | Eclipse, Gradle, Jenkins, Artifactory, Groovy, Seleinium 2 |
 | My articles related to: | Gradle plugin development using groovy: <http://crc83.blogspot.com/2016/03/i-getting-started-with-environment.html> |
 
-| Project name: | Meta Application development based on proprietary technologies |
-|---|----|
+### Meta Application development based on proprietary technologies
+
 | Project Description: | Proprietary OONDB (object-oriented network database), ORM framework for OONDB, ZK UI framework. |
 | Customer: | European customer |
 | Involvement Duration: | January 2014- October 2017 |
@@ -212,8 +212,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 6-10 |
 | Tools: | Eclipse, Gradle/Ant, Tomcat 7, Java 6, ZKoss UI framework |
 
-| Project name: | Online booking service |
-|----|----|
+### Online booking service
+
 | Project Description: | Product that connects Home Rental Agreement (HRA) owners and property managers with travelers who seek the space, value and amenities of HRA homes as an alternative to hotels. |
 | Customer: | US Customer |
 | Involvement Duration: | February 2013-December 2013 |
@@ -222,8 +222,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 18-30 |
 | Tools/Technologies: | Maven 2, Eclipse/Intellij IDEA, Git, Spring, MyBatis, Jersey |
 
-| Project name:| Development process management tool |
-|----|----|
+### Development process management tool
+
 | Project Description: | Tool based on top of SVC client that allows developer easily switch context of development. It also integrates with issue tracker and continuous integration server. |
 | Customer: | US Customer |
 | Involvement Duration: | December 2012 - February 2013 |
@@ -232,8 +232,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 2 |
 | Tools/Technologies: | Ruby |
 
-| Project name: | Database migration project |
-|----|----|
+### Database migration project
+
 | Project Description: | Perform data migration from Oracle DB to MySQL database. This includes input and output data verification. |
 | Customer: | US Customer |
 | Involvement Duration: | June 2012 - November 2012 |
@@ -242,8 +242,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 1 |
 | Tools/Technologies: | Eclipse, Ant, Bash, JUnit, JDBC |
 
-| Project name: | Meta Application development based on proprietary technologies |
-|----|----|
+### Meta Application development based on proprietary technologies
+
 | Project Description: | Proprietary OONDB (object-oriented network database), ORM framework for OONDB, ZK UI framework. |
 | Customer: | European customer |
 | Involvement Duration: | July 2011 - May 2012 |
@@ -252,8 +252,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 3 |
 | Tools/Technologies: | Eclipse, Ant, Tomcat 7, Selenium, Concordium, Java 6, ZKoss UI framework |
 
-| Project name: | Business operation program customization |
-|----|----|
+### Business operation program customization
+
 | Project Description: | The aim of the project was to customize third party open source libraries to run on environment with J2EE security restriction. The program or any of its components shouldn't create classloader, set context class loader and also have read or write access to temp folder. |
 | Customer: | European customer |
 | Involvement Duration: | February - July 2011 |
@@ -262,8 +262,8 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 3 |
 | Tools/Technologies: | Eclipse, Ant, Maven, WebSphere 7, Java 6, Axis2, Scripting (Windows/Linux/VBA Excel) |
 
-| Project name: | POS system for cafe and store |
-|----|----|
+### POS system for cafe and store
+
 | Project Description: | Project intended to automate business processes in cafe or store. It must be easy to use and have unified user interface. |
 | Customer: | UA Customer |
 | Involvement Duration: | 2006-2010 |
@@ -278,6 +278,7 @@ Blog :  <http://crc83.blogspot.com/>
 | Java | good |
 | Groovy | good |
 | Component Pascal | average |
+| Python | beginner |
 | TypeScript | beginner |
 | JavaScript | average |
 
@@ -295,9 +296,9 @@ Blog :  <http://crc83.blogspot.com/>
 
 | Name | Year |  |
 |----|----|----|
-| Java Standard Edition 6 Programmer Certified Professional | 2012 |  ![Java 6 cert](java6cert.png) |
-| Google Cloud Certified Professional Cloud Architect <https://bit.ly/32eHIiV>  | 2019 | ![CGP cert](gcp_cert.png) |
-| SEI Software architect professional | 2022 | ![SEI cert](sei.png) |
+| Java Standard Edition 6 Programmer Certified Professional | 2012 |  ![Java 6 cert](java6cert.png  =100x200) |
+| Google Cloud Certified Professional Cloud Architect <https://bit.ly/32eHIiV>  | 2019 | ![CGP cert](gcp_cert.png =100x200) |
+| SEI Software architect professional | 2022 | ![SEI cert](sei.png =100x200) |
 
 ## Education
 
