@@ -4,7 +4,7 @@ Software Architect (16-February-2024)
 
 ![photo](photo.png)
 
-# Summary of qualifications
+## Summary of qualifications
 
 I have 10+ years of experience in software development. I started my jorney with Pascal/Delphi for 5 years. Then 7+ years I worked with Java stack. And 2 years mostly with groovy and last couple of month (up to year) with TypeScript/React/NodeJS. Aftewards I worked last year as an architect with Java project.
 
@@ -15,9 +15,9 @@ I'm interested in development of reliable and maintainable software. However I u
 I really like to create own tools which I need and can't find suitable (see my open-source projects). Also I like to share knowledge on online and offline meetups (see my publications)
 My hobbies used to be jogging, programming and electronics and also hiking. I like car traveling, aviation, and fantasy movies and books
 
-# Skills
+## Skills
 
-## Software Architecture Design
+### Software Architecture Design
 
 - Software Architecture Design/ UML/ Reverse Engineering/Design Patterns
 - Quality Attribute Workshop
@@ -27,7 +27,7 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 - Domain driven design
 - Service-Oriented architecture
 
-## Programming Languages/ Technologies
+### Programming Languages/ Technologies
 
 - Java/Groovy/Gradle/Maven/Ant
 - TypeScript/React/Nest/NodeJS/NPM
@@ -35,25 +35,25 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 - Borland Delphi/ADO/Pascal
 - FHIR
 
-## Cloud
+### Cloud
 
 - GCP
 - AWS
 
-## RDBMS
+### RDBMS
 
 - PostgreSQL/MySQL/MS SQL Server/OracleDB/MS Access
 - Proprietary NoSQL DB
 - Google Spanner
 
-## Methodologies
+### Methodologies
 
 - Agile, SCRUM, XP
 - Pair Programming
 - Test Driven, Feature Driven, Behavior Driven Development
 - Waterfall
 
-## Frameworks
+### Frameworks
 
 - Grails
 - Spring (batch, core, jdbc-template, rest, data, mvc)
@@ -62,45 +62,45 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 - Concordium/Selenium/JUnit/JMock/Mockito
 - React/Nest
 
-## Application/Web Servers
+### Application/Web Servers
 
 - Apache Tomcat
 - IBM WebSphere
 - Oracle Weblogic
 
-## Development Tools (IDE, SCM, CI)
+### Development Tools (IDE, SCM, CI)
 
 - Eclipse/Intellij Idea/VSCode
 - Git/SVN
 - Github actions/Jenkins/Teamcity/Travic-CI
 - Docker/Kubernetes
 
-## Operating Systems
+### Operating Systems
 
 - Microsoft Windows 3.11/95/ 98/XP/Vista/Seven/10
 - openSUSE Linux / Ubuntu Linux / FreeBSD 4 / RedHat Linux
 
-## Hardware
+### Hardware
 
 - Communication with scales & cash registers
 - Communication with pole displays
 - Communication with bar-code and magnetic card readers
 - Communication with laser transmitter over LPT port
 
-# Open-source projects
+## Open-source projects
 
 - Gradle plugin for Jenkins, Maintainer, <https://github.com/crc83/gradle-jenkins-plugin>
 - Rally plugin for Jetbrains IDEA, Author and maintainer, <https://github.com/crc83/rallydev>
 - Total Commander plugin for Git <https://github.com/crc83/tc-git-plugin>
 - Project aimed to train kids write letters (JavaScript only) <http://crc83.github.io>  (repo <https://github.com/crc83/crc83.github.io> )
 
-# My publications
+## My publications
 
-## Presentation at JEEConf 2018
+### Presentation at JEEConf 2018
 
 - Gradle how to's <https://youtu.be/7b17sOKuOS8>
 
-## Presentation for local developers community
+### Presentation for local developers community
 
 - Make diagrams a communication channel between stakeholders <https://youtu.be/oVAPcHOYZEQ>
 - ANTLR4 for beginners <https://youtu.be/qejsv35H33Q>
@@ -109,9 +109,9 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 
 Blog :  <http://crc83.blogspot.com/>
 
-# Experience
+## Experience
 
-## Supply chain for retail
+### Supply chain for retail
 
 | Project Description: | Supply chain project for retail as a part of big enterprise SOA with domain driven design and multiple integrations with other services through REST and message bus |
 | Customer: | EU customer |
@@ -121,7 +121,7 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 20+ |
 | Tools/ Technologies: | Java/AVRO/Openapi |
 
-## Helthcare support marketplace
+### Helthcare support marketplace
 
 | Project Description: | Project aimed to support customers with hiring nurse or nanny to support them in daily life. Project itself contains of legacy monoliths and go microservices on backend and micro frontend app combined with JSP's on frontend |
 | Customer: | US customer |
@@ -141,7 +141,7 @@ Blog :  <http://crc83.blogspot.com/>
 | Project Team Size: | 3 - 10 |
 | Tools/ Technologies: | Java/Spring & Angular |
 
-## Healthcare social network
+### Healthcare social network
 
 | Project Description: | Project aimed to help senior people communicate with each other. It has microservice architecture with different data analytics and data aggregation services |
 | Customer: | US customer |
@@ -273,8 +273,6 @@ Blog :  <http://crc83.blogspot.com/>
 | Tools/Technologies: | Delphi 7-2010, MS SQL Server 2005 Express edition, ADO, COM |
 | Additional information: | Many different tasks were solved by me, such as: interaction with cash registers; interaction with scales; flexible distribution of access rules between different users; operation logging. I have an experience of supporting this application for four years |
 
-# Programming languages
-
 | Programming languages: | Level |
 |----|----|
 | Java | good |
@@ -284,7 +282,7 @@ Blog :  <http://crc83.blogspot.com/>
 | TypeScript | beginner |
 | JavaScript | average |
 
-# Network contacts
+## Network contacts
 
 - GitHub : <https://github.com/crc83>
 - Blog : <http://crc83.blogspot.com/>
@@ -294,7 +292,7 @@ Blog :  <http://crc83.blogspot.com/>
 - Phone : +380993231704
 - E-mail : <sergiy.beley@gmail.com>
 
-# Certifications
+## Certifications
 
 | Name | Year |  |
 |----|----|----|
@@ -302,7 +300,7 @@ Blog :  <http://crc83.blogspot.com/>
 | Google Cloud Certified Professional Cloud Architect <https://bit.ly/32eHIiV>  | 2019 | ![CGP cert](gcp_cert.png =100x200) |
 | SEI Software architect professional | 2022 | ![SEI cert](sei.png =100x200) |
 
-# Education
+## Education
 
 M Sc Degree
 Ivano-Frankovsk oil and gas university
