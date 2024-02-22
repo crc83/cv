@@ -1,19 +1,19 @@
 # Serhii Belei
 
-Software Architect (16-February-2024)
+Software Architect
 
 ![photo](photo.png)
 
 ## Summary of qualifications
 
-I have 10+ years of experience in software development. I started my jorney with Pascal/Delphi for 5 years. Then 7+ years I worked with Java stack. And 2 years mostly with groovy and last couple of month (up to year) with TypeScript/React/NodeJS. Aftewards I worked last year as an architect with Java project.
+I have 14+ years of experience in software development indastry. I started my jorney with Pascal/Delphi for (5 years) 2005-2010. Next 7+ years I worked with Java stack (2010-2014). It was followed with 2 years mostly with Groovy and last couple of months (up to a year) with TypeScript/React/NodeJS. My recent I worked last year as an architect at healthcare project.
 
-I've been working as a Software Architect/Tech lead, for last year. Despite driving main project I was involved in different consultancy and investigation activities. I have strong technical experience of Software Development processes, including analysis, requirements design, data modeling, coding, testing, debugging using Java. Also I had some experience with Typescript/React/NestJS.
+In addition to architecting projects, I have been involved in various consulting and investigation activities within Softserve. I have strong technical experience of Software Development processes, including analysis, requirements design, data modeling, coding, testing, debugging using Java. 
 
-I'm interested in development of reliable and maintainable software. However I understand that we have wide range to reach business needs. I have experience in development of complex business models using modern TDD and BDD approaches. Setting up code quality and test quality standards in the team. I'm fast learner and passionate to learn new ideas and technologies.
+I'm interested in the development of reliable and maintainable software by utilising ADD (Architecture driven design), TDD and BDD approaches, setting up code quality and test quality standards in the team. I'm a fast learner who is passionate to learn new ideas and technologies.
 
-I really like to create own tools which I need and can't find suitable (see my open-source projects). Also I like to share knowledge on online and offline meetups (see my publications)
-My hobbies used to be jogging, programming and electronics and also hiking. I like car traveling, aviation, and fantasy movies and books
+My strong side lies in creating custom tools that aren't available on the market (see my open-source projects). As a part of my professional development,I'm engaged in sharing knowledge at online/offline meetups (see my publications).
+My hobbies are road trips, aviation, and fantasy movies and books.
 
 ## Skills
 
@@ -275,17 +275,6 @@ Blog :  <http://crc83.blogspot.com/>
 | Tools/Technologies: | Delphi 7-2010, MS SQL Server 2005 Express edition, ADO, COM |
 | Additional information: | Many different tasks were solved by me, such as: interaction with cash registers; interaction with scales; flexible distribution of access rules between different users; operation logging. I have an experience of supporting this application for four years |
 
-## Programming languages
-
-| Programming languages: | Level |
-|----|----|
-| Java | good |
-| Groovy | good |
-| Component Pascal | average |
-| Python | beginner |
-| TypeScript | beginner |
-| JavaScript | average |
-
 ## Network contacts
 
 - GitHub : <https://github.com/crc83>
@@ -307,6 +296,6 @@ Blog :  <http://crc83.blogspot.com/>
 ## Education
 
 M Sc Degree
-Ivano-Frankovsk oil and gas university
-Faculty of electrification and informational and measurement technologies
+Ivano-Frankivsk Oil and Gas University
+Faculty of Electrification And Informational and Measurement Technologies
 2005
