@@ -6,7 +6,15 @@ Software Architect
 
 ## Summary of qualifications
 
-I have 14+ years of experience in software development indastry. I started my jorney with Pascal/Delphi for (5 years) 2005-2010. Next 7+ years I worked with Java stack (2010-2014). It was followed with 2 years mostly with Groovy and last couple of months (up to a year) with TypeScript/React/NodeJS. My recent I worked last year as an architect at healthcare project.
+I have 14+ years of experience in software development indastry. I started my jorney with Pascal/Delphi for (5 years) 2005-2010. Next 9+ years I worked with Java stack (2010-2019). That was journey to metadata management and different tools that where aimed to automate alot of manual tasks like UI testing with Selenium and Concordium, build automation  and automation of release process of boxed version of application with Gradle. Also I worked with retail project with Service oriented architecture where different teams used Agile and Kanban. One of challenges there was to plan backward/forward compatibility of changes in services depending on release schedule of different teams.
+
+It was followed with 2 years mostly with Groovy project. My aim was to increase testability and test coverage of project because customer expected faster feature delivery, and it's hard to achieve without paying off techincal debts. 
+
+Then couple of months (up to a year) with TypeScript/React/NodeJS project. I used different approaches to document exiting state of project during handover from wendor to vendor. I used "Views and beyound" tecnique together with my knowledge of GCP and AWS to document whatever we have and describe whate we should migrate from GCP to AWS (we used lift and shift approach because of short timelines). 
+
+My recent projects as an architect were healthcare projects. We worked with complex data structures that we translated according to FHIR standart with complex business logic. My aim was to define and document logical rules received from product owners.
+
+Last two projects I acted as a Senior developer/Tech lead and according to customer expectations my aim was to increase modifiability of projects. Projects where hosted on onpremis clouds and extensively used Gitops during development. Last project belongs to retail domain.
 
 In addition to architecting projects, I have been involved in various consulting and investigation activities within Softserve. I have strong technical experience of Software Development processes, including analysis, requirements design, data modeling, coding, testing, debugging using Java. 
 
