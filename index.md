@@ -6,7 +6,7 @@ Software Architect
 
 ## Summary of qualifications
 
-I have 14+ years of experience in software development indastry. I started my jorney with Pascal/Delphi for (5 years) 2005-2010. Next 9+ years I worked with Java stack (2010-2019). That was journey to metadata management and different tools that where aimed to automate alot of manual tasks like UI testing with Selenium and Concordium, build automation  and automation of release process of boxed version of application with Gradle. Also I worked with retail project with Service oriented architecture where different teams used Agile and Kanban. One of challenges there was to plan backward/forward compatibility of changes in services depending on release schedule of different teams.
+I have 14+ years of experience in software development industry. I started my jorney with Pascal/Delphi for (5 years) 2005-2010. Next 9+ years I worked with Java stack (2010-2019). That was journey to metadata management and different tools that where aimed to automate alot of manual tasks like UI testing with Selenium and Concordium, build automation  and automation of release process of boxed version of application with Gradle. Also I worked with retail project with Service oriented architecture where different teams used Agile and Kanban. One of challenges there was to plan backward/forward compatibility of changes in services depending on release schedule of different teams.
 
 It was followed with 2 years mostly with Groovy project. My aim was to increase testability and test coverage of project because customer expected faster feature delivery, and it's hard to achieve without paying off techincal debts. 
 
