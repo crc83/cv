@@ -121,11 +121,32 @@ Blog :  <http://crc83.blogspot.com/>
 
 ## Experience
 
+
+### Sales platform for monitoring team performance and managing sales
+
+| Project Description: |Data intelligence platform that combines and gathers data that allows to monitor a sales team daily routines |
+| Customer: | US customer |
+| Involvement Duration: | October 2024 - May 2025 |
+| Project Role: | Fullstack developer |
+| Responsibilities: | Regular development |
+| Project Team Size: | 10+ |
+| Tools/ Technologies: | Java/Spring/Graphql/React |
+
+### Helthcare service for requesting medical services
+
+| Project Description: | Small startup that provides a platform to request nursing or nanny services. Project was microservice based with services written on Java and Go |
+| Customer: | US customer |
+| Involvement Duration: | March 2024 - September 2024 |
+| Project Role: | Backend developer |
+| Responsibilities: | Regular deve |
+| Project Team Size: | 5+ |
+| Tools/ Technologies: | Java/Spring |
+
 ### Supply chain for retail
 
 | Project Description: | Supply chain project for retail as a part of big enterprise SOA with domain driven design and multiple integrations with other services through REST and message bus |
 | Customer: | EU customer |
-| Involvement Duration: | September 2023 - Now |
+| Involvement Duration: | September 2023 - February 2024 |
 | Project Role: | Technical leader |
 | Responsibilities: | Scoping epics. Proposing solutions and defining enhancement of contracts. Time and schedule negotiation |
 | Project Team Size: | 20+ |
