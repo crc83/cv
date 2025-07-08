@@ -1,18 +1,18 @@
 # Serhii Belei
 
-Software Architect (16-February-2024)
+Software Engineer (08-July-2025)
 
 ![photo](photo.png)
 
 ## Summary of qualifications
 
-I have 10+ years of experience in software development. I started my jorney with Pascal/Delphi for 5 years. Then 7+ years I worked with Java stack. And 2 years mostly with groovy and last couple of month (up to year) with TypeScript/React/NodeJS. Aftewards I worked last year as an architect with Java project.
+I have 10+ years of experience in software development. I started my journey with Pascal/Delphi for 5 years. Then 7+ years I worked with Java stack. And 2 years mostly with groovy and the last couple of months (up to a year) with TypeScript/React/NodeJS. Aftewards I worked last year as an architect with a Java project. Then I switched back to development role for arpidly growing Java/Spring/Graphql backend and TypeScript/React frontend app. Now my main technical focus is on the TypeScript / NestJS / React / Apollo stack.
 
-I've been working as a Software Architect/Tech lead, for last year. Despite driving main project I was involved in different consultancy and investigation activities. I have strong technical experience of Software Development processes, including analysis, requirements design, data modeling, coding, testing, debugging using Java. Also I had some experience with Typescript/React/NestJS.
+I've been working as a Software Architect/Tech lead, for a couple of years. Despite driving the main project, I was involved in different consultancy and investigation activities. I have strong technical experience of Software Development processes, including analysis, requirement design, data modeling, coding, testing, debugging using Java. Also, I have experience with TypeScript/React/NestJS.
 
-I'm interested in development of reliable and maintainable software. However I understand that we have wide range to reach business needs. I have experience in development of complex business models using modern TDD and BDD approaches. Setting up code quality and test quality standards in the team. I'm fast learner and passionate to learn new ideas and technologies.
+I'm interested in the development of reliable and maintainable software. However, I understand that we have a wide range to reach business needs. I have experience in the development of complex business models using modern TDD and BDD approaches. Setting up code quality and test quality standards in the team. I'm a fast learner and passionate to learn new ideas and technologies.
 
-I really like to create own tools which I need and can't find suitable (see my open-source projects). Also I like to share knowledge on online and offline meetups (see my publications)
+I really like to create my own tools which I need and can't find suitable (see my open-source projects). Also, I like to share knowledge on online and offline meetups (see my publications)
 My hobbies used to be jogging, programming and electronics and also hiking. I like car traveling, aviation, and fantasy movies and books
 
 ## Skills
@@ -44,6 +44,7 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 
 - PostgreSQL/MySQL/MS SQL Server/OracleDB/MS Access
 - Proprietary NoSQL DB
+- MongoDB
 - Google Spanner
 
 ### Methodologies
@@ -60,7 +61,8 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 - Jersey
 - myBatis/Hibernate
 - Concordium/Selenium/JUnit/JMock/Mockito
-- React/Nest
+- React
+- NestJS/Apollo Graphql
 
 ### Application/Web Servers
 
@@ -79,10 +81,11 @@ My hobbies used to be jogging, programming and electronics and also hiking. I li
 
 - Microsoft Windows 3.11/95/ 98/XP/Vista/Seven/10
 - openSUSE Linux / Ubuntu Linux / FreeBSD 4 / RedHat Linux
+- MacOS
 
 ### Hardware
 
-- Communication with scales & cash registers
+- Communication with scales and cash registers
 - Communication with pole displays
 - Communication with bar-code and magnetic card readers
 - Communication with laser transmitter over LPT port
@@ -111,15 +114,35 @@ Blog :  <http://crc83.blogspot.com/>
 
 ## Experience
 
-| Project name: | Helthcare support marketplace |
-|----|----|
+| Project name: | Sales management platform                                                |
+|----|--------------------------------------------------------------------------|
+| Project Description: | Project that aimed to provide overall vision and insights for sales team |
+| Customer: | US customer                                                              |
+| Involvement Duration: | November 2024 - June 2025                                                |
+| Project Role: | Fullstack software engineer                                              |
+| Responsibilities: | Implementation of stories (backend and frontend part)                    |
+| Project Team Size: | 10+                                                                      |
+| Tools/ Technologies: | Java/Spring/Graphql/React/Typescript                                     |
+
+| Project name: | Task management platform extension                                       |
+|----|--------------------------------------------------------------------------|
+| Project Description: | Project that aimed to provide overall vision and insights for sales team |
+| Customer: | US customer                                                              |
+| Involvement Duration: | August 2024 - October 2024                                               |
+| Project Role: | Backend software engineer                                                |
+| Responsibilities: | Implementation of stories backend                                        |
+| Project Team Size: | 4+                                                                       |
+| Tools/ Technologies: | Typescript/Express/Graphql/Kotlin/Spring                                 |
+
+| Project name: | Supply chain marketplace                                                                                                                                             |
+|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Project Description: | Supply chain project for retail as a part of big enterprise SOA with domain driven design and multiple integrations with other services through REST and message bus |
-| Customer: | EU customer |
-| Involvement Duration: | September 2023 - Now |
-| Project Role: | Technical leader |
-| Responsibilities: | Scoping epics. Proposing solutions and defining enhancement of contracts. Time and schedule negotiation |
-| Project Team Size: | 20+ |
-| Tools/ Technologies: | Java/AVRO/Openapi |
+| Customer: | EU customer                                                                                                                                                          |
+| Involvement Duration: | September 2023 - July 2024                                                                                                                                           |
+| Project Role: | Technical leader                                                                                                                                                     |
+| Responsibilities: | Scoping epics. Proposing solutions and defining enhancement of contracts. Time and schedule negotiation                                                              |
+| Project Team Size: | 20+                                                                                                                                                                  |
+| Tools/ Technologies: | Java/AVRO/Openapi                                                                                                                                                    |
 
 | Project name: | Helthcare support marketplace |
 |----|----|
